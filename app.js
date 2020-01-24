@@ -8,4 +8,4 @@ celciusInput.addEventListener("input", function() {
   fahrenheitInput.value = fTem;
 });
 
-let 
+let name = "Rashid";
