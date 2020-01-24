@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.convertor {
+  margin: 4rem auto;
+  width: 50%;
+}
+h1 {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+input {
+  width: 50vw;
+  height: 24vh;
+  text-align: center;
+  background: #333;
+  font-size: 3em;
+  color: #fff;
+  outline: 0;
+}
